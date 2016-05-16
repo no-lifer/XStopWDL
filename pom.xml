@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>XAntiWDL</name>
+    <name>XStopWDL</name>
     <url>https://github.com/no-lifer/XStopWDL/</url>
 
     <properties>
@@ -42,7 +42,7 @@
         <artifactId>craftbukkit</artifactId>
         <version>1.9-R0.1-SNAPSHOT</version>
         <scope>system</scope>
-        <systemPath>lib/spigot-1.9.jar</systemPath>
+        <systemPath>${project.basedir}/lib/spigot-1.9.jar</systemPath>
         <optional>true</optional>
     </dependency>
     </dependencies>
