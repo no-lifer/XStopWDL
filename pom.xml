@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>XAntiWDL</name>
-    <url>https://github.com/no-lifer/XAntiWDL/</url>
+    <url>https://github.com/no-lifer/XStopWDL/</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
